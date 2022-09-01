@@ -1,2 +1,2 @@
-# xiaochensun90.github.io
+# website
 This repository is for personal website development
