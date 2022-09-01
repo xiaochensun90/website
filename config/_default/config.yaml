@@ -5,7 +5,7 @@ theme: "academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Xiaochen Sun # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://xiaochensun.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
