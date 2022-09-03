@@ -4,7 +4,7 @@ theme: "academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Xiaochen # Website name
+title: Xiaochen Sun # Website name
 baseURL: 'https://xiaochensun.netlify.app/' # Website URL
 
 ############################
