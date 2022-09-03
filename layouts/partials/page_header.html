@@ -1,4 +1,5 @@
-{{ partial "marketing/analytics" . }}
+{{ partial "marketing/google_analytics" . }}
+{{ partial "marketing/google_tag_manager" . }}
 
 {{ $page := . }}
 {{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}

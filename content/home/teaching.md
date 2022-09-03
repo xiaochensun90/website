@@ -26,7 +26,7 @@ item:
   - certificate_url: ''
     date_end: '2022-12-15'
     date_start: '2019-01-01'
-    description: '**95-710** Economics Analysis (2019 Fall, 2020 Spring, 2020 Fall, 2021 Spring, 2021 Fall, 2022 Spring, 2022 Fall)  <br>**94-834** Applied Econometrics I (2019 Fall, 2020 Spring, 2020 Fall, 2021 Spring, 2021 Fall, 2022 Spring, 2022 Fall) <br>**94-835** Applied Econometrics II (2020 Spring, 2021 Spring, 2022 Spring)'
+    description: '**95-710** Economics Analysis (2019-2023)  <br>**94-834** Applied Econometrics I (2019-2023) <br>**94-835** Applied Econometrics II (2020-2023)'
     organization: 'Carnegie Mellon University'
     organization_url: ''
     title: Teaching Assistant and Recitation Instructor
