@@ -28,8 +28,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
-publication_short: NBER Working Paper No. 28612 (IZA Discussion Paper No. 14211). Under Review. 
-(Also featured in NBER Research Spotlight, 7/15/2021)
+publication_short: NBER Working Paper No. 28612 (IZA Discussion Paper No. 14211). Under Review. (Also featured in NBER Research Spotlight, 7/15/2021)
 
 abstract: 
 

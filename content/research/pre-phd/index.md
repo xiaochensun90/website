@@ -26,12 +26,12 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
-publication_short: International Energy Forum, Saudi Arabia.
+publication_short: International Energy Forum, Saudi Arabia
 
-abstract: 
+# abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+# summary: 
 
 tags: []
 
@@ -75,8 +75,9 @@ url_video: ''
 slides: example
 ---
 
-**Abstract**: 
+**Description:**  
 
+[This document](https://energy.duke.edu/sites/default/files/images/6th-iea-ief-opec-symposium-on-energy-outlooks_final-ief-duke-background-paper.pdf) provides a comparative analysis of the short-, medium-, and long-term energy outlooks published by the IEA and OPEC in 2015. The exposition compares estimates for world liquids fuel demand and supply through the three time frames, along with their main regional and sectorial drivers. It also includes comparisons of world primary energy consumption projections to 2040 by energy source and across three long-term scenarios, two from the IEA and one from OPEC.
 
 
 
