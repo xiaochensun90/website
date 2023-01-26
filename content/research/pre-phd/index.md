@@ -1,18 +1,18 @@
 ---
-title: '(Pre-PhD) Introductory Paper: A Comparison of Recent IEA and OPEC Outlooks for the sixth IEA IEF OPEC Symposium on Energy Outlooks'
+title: 'Introductory Paper: A Comparison of Recent IEA and OPEC Outlooks for the sixth IEA IEF OPEC Symposium on Energy Outlooks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Duke University Energy Initiative
+  - (Pre-PhD) Duke University Energy Initiative
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2016-03-29T00:00:00Z'
+date: '2016-02-16T00:00:00Z'
 # doi: '10.3386/w28612'
 
 # Schedule page publish date (NOT publication's date).

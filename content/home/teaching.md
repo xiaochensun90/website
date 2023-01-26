@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: ''
-    date_end: '2022-12-15'
+    date_end: '2023-5-10'
     date_start: '2019-01-01'
     description: '**95-710** Economics Analysis (2019-2023)  <br>**94-834** Applied Econometrics I (2019-2023) <br>**94-835** Applied Econometrics II (2020-2023)'
     organization: 'Carnegie Mellon University'
