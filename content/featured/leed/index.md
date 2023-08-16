@@ -14,21 +14,21 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-03-29T00:00:00Z'
-doi: '10.3386/w28612'
+date: '2023-08-03T00:00:00Z'
+doi: '10.1016/j.jeem.2023.102866'
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: '2021-03'
+publishDate: '2023-09'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Wowchemy Conference*
-publication_short: NBER Working Paper No. 28612 (IZA Discussion Paper No. 14211). Under Review. (Also featured in NBER Research Spotlight, 7/15/2021)
+# publication: In *XXXX*
+publication_short:  NBER Working Paper No. 28612 and IZA Discussion Paper No. 14211. Accepted, Journal of Environmental Economics and Management
 
 abstract: 
 
@@ -79,7 +79,7 @@ slides: example
 
 **Abstract**: 
 
-In the absence of first-best climate policy, energy efficiency has figured prominently among strategies to reduce carbon emissions. One of the most sought-after green certification in the building sector is the internationally recognized Leadership in Energy & Environmental Design (LEED). This paper examines the effects of LEED certification on energy efficiency in federally owned buildings. Using propensity score matching and difference in differences models, we find no effect of LEED certification on average energy consumption. This reflects the fact that energy use is one of a number of attributes that receives scores under the LEED program. Buildings with above average energy scores have greater energy efficiency post-certification. Some other attributes, notably higher water scores, decrease energy efficiency post-certification. Trade-offs across LEED attributes account for the absence of energy savings on average. If energy efficiency is the primary policy goal, LEED certification may not be the most effective means to reach that goal.
+This paper examines the causal impact of LEED (Leadership in Energy & Environmental Design) certification on energy consumption among federally owned buildings that were retrofitted over the period 1990–2019. Using a difference-in-differences propensity score matching approach, the paper has two findings. First, despite energy savings being an explicit federal goal, LEED-certified retrofits of federal buildings did not have statistically significant energy savings on average. Second, LEED buildings with higher energy scores had greater energy efficiency post-certification, and the improvements were economically meaningful. The absence of energy savings on average appears to be driven by three factors — trade-offs across energy and other areas in acquiring points for certification, possible changes in energy use after the official performance period for LEED certification ended, and improvements in the energy efficiency of all federal buildings.
 
 
 

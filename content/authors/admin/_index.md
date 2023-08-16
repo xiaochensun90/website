@@ -69,10 +69,9 @@ email: ''
 highlight_name: true
 ---
 
-My name is Xiaochen Sun, and I am a PhD candidate in Public
-Policy at Carnegie Mellon University. My research interests lie in the field of applied microeconomics, primarily in environmental and energy economics. My work includes the discussion of building energy efficiency, air pollution policy, and electricity market. My current research is focused on the impact of generation interconnection mechanism and how it affects generators' decision making.
+I am a PhD candidate in Public Policy and Management at Carnegie Mellon University. My research interests lie in the field of applied microeconomics, with a special focus on environmental and energy economics. My work examines the economic and environmental outcomes of a wide range of policies, including building energy efficiency and air pollution. My current research discusses the current interconnection policy in the United States and how cost uncertainties associated with the current cost allocation rule affect generators' decision to withdraw from the process.
 
-I earned my B.A. in environmental economics from Renmin University of China in 2013 and M.S. in environmental economics and policy from Duke University in 2015.
+I earned my B.A. in environmental economics from Renmin University of China and an M.S. in environmental economics and policy from Duke University.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
