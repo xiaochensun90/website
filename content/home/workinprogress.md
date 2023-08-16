@@ -38,3 +38,4 @@ design:
 
 “Impact of a Cap-and-Trade Program on Local Air Pollution: Evidence from the Acid Rain Program”, joint with Karen Clay and Edson Severnini 
 
+“Renewable Generation Interconnection: A Common Pool Challenge –- Evidence from PJM Electric Market”
