@@ -6,7 +6,7 @@ title: Xiaochen Sun
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Public Policy
+role: PhD Candidate in Public Policy
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,21 +18,22 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Environmental Economics
-  - Energy Economics
+  - Environmental and Energy Economics
+  - Public Economics
+  - Empirical Industrial Organization
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Public Policy
+    - course: Ph.D. in Public Policy
       institution: Carnegie Mellon University
-      year: 2018-present
-    - course: MS in Environmental Economics and Policy
+      year: 2018 - 2024 (expected)
+    - course: M.S. in Environmental Economics and Policy
       institution: Duke University
-      year: 2013-2015
-    - course: BA in Enviromental Economics
+      year: 2013 - 2015
+    - course: B.A. in Environmental Economics
       institution: Renmin University of China
-      year: 2009-2013
+      year: 2009 - 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,7 +61,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: /uploads/resume.pdf
+    link: /uploads/cv_xs.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -69,9 +70,11 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate in Public Policy and Management at Carnegie Mellon University. My research interests lie in the field of applied microeconomics, with a special focus on environmental and energy economics. My work examines the economic and environmental outcomes of a wide range of policies, including building energy efficiency and air pollution. My current research discusses the current interconnection policy in the United States and how cost uncertainties associated with the current cost allocation rule affect generators' decision to withdraw from the process.
+I am a PhD candidate in Public Policy at Carnegie Mellon University. My research interests lie in the field of environmental and energy economics. My work uses economic and econometric models to examine the economic and environmental impact of a wide range of policies, including building efficiency, air pollution, and electricity markets. My job market paper studies one of the most urgent obstacles for renewable transition and focuses on the interconnection process in the United States. Specifically, I examine the impact of cost allocation uncertainty on generators' decision to stay in the process.
 
-I earned my B.A. in environmental economics from Renmin University of China and an M.S. in environmental economics and policy from Duke University.
+Prior to my PhD, I worked as a research analyst at Duke University Energy Initiative. I earned my B.A. in environmental economics from Renmin University of China and an M.S. in environmental economics and policy from Duke University.
+
+I will be on the job market during AY 2023-2024.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/cv_xs.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

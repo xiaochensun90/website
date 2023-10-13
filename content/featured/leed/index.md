@@ -28,7 +28,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *XXXX*
-publication_short:  NBER Working Paper No. 28612 and IZA Discussion Paper No. 14211. Accepted, Journal of Environmental Economics and Management
+publication_short: "Journal of Environmental Economics and Management 121: 102866, 2023 (NBER Working Paper No. 28612 and IZA Discussion Paper No. 14211)"
 
 abstract: 
 
