@@ -74,7 +74,7 @@ I am a PhD candidate in Public Policy at Carnegie Mellon University. My research
 
 Prior to my PhD, I worked as a research analyst at Duke University Energy Initiative. I earned my B.A. in environmental economics from Renmin University of China and an M.S. in environmental economics and policy from Duke University.
 
-I will be on the job market during AY 2023-2024.
+I am on the job market during AY 2023-2024.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/cv_xs.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
