@@ -1,18 +1,18 @@
 ---
-title: 'Introductory Paper: A Comparison of Recent IEA and OPEC Outlooks for the sixth IEA IEF OPEC Symposium on Energy Outlooks'
+title: 'Impacts of Uncertainty in Transmission Interconnection on Grid Resilience (Job Market Paper)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - (Pre-PhD) Duke University Energy Initiative
+  - admin
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2016-02-16T00:00:00Z'
+date: '2023-10-23T00:00:00Z'
 # doi: '10.3386/w28612'
 
 # Schedule page publish date (NOT publication's date).
@@ -22,11 +22,11 @@ date: '2016-02-16T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
-publication_short: International Energy Forum, Saudi Arabia
+# publication_short: International Energy Forum, Saudi Arabia
 
 # abstract: 
 
@@ -77,7 +77,7 @@ slides: example
 
 **Description:**  
 
-[This document](https://energy.duke.edu/sites/default/files/images/6th-iea-ief-opec-symposium-on-energy-outlooks_final-ief-duke-background-paper.pdf) provides a comparative analysis of the short-, medium-, and long-term energy outlooks published by the IEA and OPEC in 2015. The exposition compares estimates for world liquids fuel demand and supply through the three time frames, along with their main regional and sectorial drivers. It also includes comparisons of world primary energy consumption projections to 2040 by energy source and across three long-term scenarios, two from the IEA and one from OPEC.
+Abstract Forthcoming
 
 
 

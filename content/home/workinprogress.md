@@ -37,5 +37,3 @@ design:
 ---
 
 “Impact of a Cap-and-Trade Program on Local Air Pollution: Evidence from the Acid Rain Program”, joint with Karen Clay and Edson Severnini 
-
-“Impacts of Dynamic Signaling on Transmission Interconnection Decision (Job Market Paper)”
