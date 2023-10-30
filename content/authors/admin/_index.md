@@ -18,7 +18,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Environmental and Energy Economics
+  - Energy and Environmental Economics
   - Public Economics
   - Empirical Industrial Organization
 
@@ -70,9 +70,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate in Public Policy at Carnegie Mellon University. My research interests lie in the field of environmental and energy economics. My work uses economic and econometric models to examine the economic and environmental impact of a wide range of policies, including building efficiency, air pollution, and electricity markets. My job market paper studies one of the most critical obstacles for renewable transition and focuses on the interconnection process in the United States. Specifically, I examine the impact of cost allocation uncertainty on generators' decision to stay in the process.
+I am a PhD candidate in Public Policy at Carnegie Mellon University. My research interests lie in the field of energy and environmental economics and policy. My work uses economic and econometric models to examine the impacts of a wide range of policies, including building efficiency, air pollution, and electricity markets. My job market paper studies one of the most critical obstacles hindering the transition to renewable energy sources and focuses on the transmission interconnection process in the United States. Specifically, I examine the impact of cost allocation uncertainty on generators' decision to ultimately connect to the grid.
 
-Prior to my PhD, I worked as a research analyst at Duke University Energy Initiative. I earned my B.A. in environmental economics from Renmin University of China and an M.S. in environmental economics and policy from Duke University.
+Prior to my PhD, I worked as a research analyst at the Duke University Energy Initiative. I earned my B.A. in environmental economics from Renmin University of China and an M.S. in environmental economics and policy from Duke University.
 
 I am on the job market during AY 2023-2024.
 
