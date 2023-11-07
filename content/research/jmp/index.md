@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://cmu.box.com/s/tzjw5w1gh8g86mg8u60t6hb7ev3bg8go'
 url_code: ''
 url_dataset: ''
 url_poster: ''
