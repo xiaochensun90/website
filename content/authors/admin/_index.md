@@ -6,12 +6,12 @@ title: Xiaochen Sun
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Public Policy
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Carnegie Mellon University
-    url: https://www.cmu.edu/
+  - name: New Mexico State University
+    url: https://www.nmsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Public Policy
+    - course: Ph.D. in Public Policy and Management
       institution: Carnegie Mellon University
-      year: 2018 - 2024 (expected)
+      year: 2024
     - course: M.S. in Environmental Economics and Policy
       institution: Duke University
-      year: 2013 - 2015
+      year: 2015
     - course: B.A. in Environmental Economics
       institution: Renmin University of China
-      year: 2009 - 2013
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,11 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate in Public Policy at Carnegie Mellon University. My research interests lie in the field of energy and environmental economics and policy. My work uses economic and econometric models to examine the impacts of a wide range of policies, including building efficiency, air pollution, and electricity markets. My job market paper studies one of the most critical obstacles hindering the transition to renewable energy sources and focuses on the transmission interconnection process in the United States. Specifically, I examine the impact of cost allocation uncertainty on generators' decision to ultimately connect to the grid.
+I am an Assistant Professor of Economics at New Mexico State University. My research interests lie in the field of energy and environmental economics and policy. My work uses economic and econometric models to examine the impacts of a wide range of policies, including building efficiency, air pollution, and electricity markets. My recent research studies one of the most critical obstacles hindering the transition to renewable energy sources and focuses on the transmission interconnection process in the United States.
 
-Prior to my PhD, I worked as a research analyst at the Duke University Energy Initiative. I earned my B.A. in environmental economics from Renmin University of China and an M.S. in environmental economics and policy from Duke University.
-
-I am on the job market during AY 2023-2024.
-
+I completed my Ph.D. in Public Policy and Management from Carnegie Mellon University. Before my Ph.D., I worked as a research analyst at the Duke University Energy Initiative. I hold a B.A. in Environmental Economics from Renmin University of China and an M.S. in Environmental Economics and Policy from Duke University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/cv_xs.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
