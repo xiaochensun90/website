@@ -25,13 +25,13 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: xiaoches@andrew.cmu.edu
+  email: xsun@nmsu.edu
 #  phone: 888 888 88 88
   address:
-    street: 4800 Forbes Avenue
-    city: Pittsburgh
-    region: PA
-    postcode: '15213'
+    street: Business Complex
+    city: Las Cruces
+    region: NM
+    postcode: '88003'
     country: United States
     country_code: US
 #  coordinates:
