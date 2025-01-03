@@ -34,7 +34,7 @@ item:
   - certificate_url: ''
     date_end: '2025-05-01'
     date_start: '2024-08-22'
-    description: '**ECON 312** Intermediate Microeconomics Theory (2024 - 2025) <br> **ECON 337V / AEEC 3120V** Natural Resource Economics (2025) <br> **ECON 2110G** Principles of Macroeconomics (2024)'
+    description: '**ECON 312** Intermediate Microeconomics Theory (2024 - 2025) <br> **ECON 337V** Natural Resource Economics (2025) <br> **ECON 2110G** Principles of Macroeconomics (2024)'
     organization: 'New Mexico State University'
     organization_url: ''
     title: Instructor
