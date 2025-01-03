@@ -35,11 +35,7 @@ design:
   view: citation
   columns: '2'
 ---
+"Impact of IRA on Energy Transition: Evidence from Energy Communities Tax Credits", joint with Gaurav Doshi and Jancy Ling Liu
 
 “Impact of a Cap-and-Trade Program on Local Air Pollution: Evidence from the Acid Rain Program”, joint with Karen Clay and Edson Severnini 
 
-"Impact of Potential Information Asymmetry in the Interconnection Process"
-
-"Collective Action on Transmission Infrastructure Construction"
-
-"Transmission Limitations on Renewable Energy Integration"

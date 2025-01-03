@@ -26,7 +26,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
-publication_short: (Job Market Paper)
+publication_short: (Winner of the 2024 USAEE Young Professional Best Paper Award Competition)
 
 # abstract: 
 
