@@ -35,7 +35,7 @@ design:
   view: citation
   columns: '2'
 ---
-"Impact of IRA on Energy Transition: Evidence from Energy Communities Tax Credits", joint with Gaurav Doshi and Jancy Ling Liu
+"Can Placed-Based Incentives Accelerate the Energy Transition? Evidence from the IRA's Energy Community Tax Credits", joint with Gaurav Doshi and Jancy Ling Liu
 
 “Impact of a Cap-and-Trade Program on Local Air Pollution: Evidence from the Acid Rain Program”, joint with Karen Clay and Edson Severnini 
 

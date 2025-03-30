@@ -23,18 +23,18 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+#  - certificate_url: ''
+#    date_end: '2024-05-10'
+#    date_start: '2019-08-01'
+#    description: ' **94-834** Applied Econometrics I (2019 - 2024) <br> **94-835** Applied Econometrics II (2020 - 2024) <br> **95-710** Economics Analysis (2019 - 2023) <br> **90-711** Statistical Reasoning with R (2020 Summer)'
+#    organization: 'Carnegie Mellon University'
+#    organization_url: ''
+#    title: Teaching Assistant
+#    url: ''
   - certificate_url: ''
-    date_end: '2024-05-10'
-    date_start: '2019-08-01'
-    description: ' **94-834** Applied Econometrics I (2019 - 2024) <br> **94-835** Applied Econometrics II (2020 - 2024) <br> **95-710** Economics Analysis (2019 - 2023) <br> **90-711** Statistical Reasoning with R (2020 Summer)'
-    organization: 'Carnegie Mellon University'
-    organization_url: ''
-    title: Teaching Assistant
-    url: ''
-  - certificate_url: ''
-    date_end: '2025-05-01'
+    date_end: ''
     date_start: '2024-08-22'
-    description: '**ECON 312** Intermediate Microeconomics Theory (2024 - 2025) <br> **ECON 337V** Natural Resource Economics (2025) <br> **ECON 2110G** Principles of Macroeconomics (2024)'
+    description: '**ECON 312** Intermediate Microeconomics Theory (Fall 2024, spring 2025) <br> **ECON 337V** Natural Resource Economics (Spring 2025) <br> **ECON 2110G** Principles of Macroeconomics (Fall 2024)'
     organization: 'New Mexico State University'
     organization_url: ''
     title: Instructor

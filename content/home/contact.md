@@ -28,7 +28,7 @@ content:
   email: xsun@nmsu.edu
 #  phone: 888 888 88 88
   address:
-    street: Business Complex
+    street: Business Complex, 339, New Mexico State University
     city: Las Cruces
     region: NM
     postcode: '88003'

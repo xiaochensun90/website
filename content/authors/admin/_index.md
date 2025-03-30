@@ -70,7 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an Assistant Professor of Economics at New Mexico State University. My research interests lie in the field of energy and environmental economics and policy. My work uses economic and econometric models to examine the impacts of a wide range of policies, including building efficiency, air pollution, and electricity markets. My recent research studies one of the most critical obstacles hindering the transition to renewable energy sources and focuses on the transmission interconnection process in the United States.
+I am an Assistant Professor of Economics at New Mexico State University. My research interests lie in the field of energy and environmental economics and policy. I apply economic and econometric models to examine the impacts of a wide range of policies, including building efficiency, air pollution, and electricity markets. My recent research investigates barriers to the renewable energy transition in the US, with a focus on the transmission interconnection process and the energy community tax credit provisions in the Inflation Reduction Act (IRA).
 
 I completed my Ph.D. in Public Policy and Management from Carnegie Mellon University. Before my Ph.D., I worked as a research analyst at the Duke University Energy Initiative. I hold a B.A. in Environmental Economics from Renmin University of China and an M.S. in Environmental Economics and Policy from Duke University.
 
