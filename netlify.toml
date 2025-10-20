@@ -5,6 +5,7 @@ publish = 'public'
 [build.environment]
 HUGO_VERSION = '0.101.0'
 NETLIFY_BUILD_IMAGE = "ubuntu-noble-24.04"
+NODE_VERSION = "20"
 
 [context]
 [context.branch-deploy]
