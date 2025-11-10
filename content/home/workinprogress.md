@@ -36,9 +36,7 @@ design:
   columns: '2'
 ---
 
-"When Storms Strike: Air Pollution and Health Effects of Electricity Sector Disruptions", joint with Felipe Gómez Trejos
-
-"The Hidden Cost of the Cloud: Data Centers and Electricity Market Inefficiency", joint with Jamal Mamkhezri and Yuting Yang
+"When Storms Strike: Air Pollution and Health Effects of Electricity Sector Disruptions", joint with Michael Cobar and Felipe Gómez Trejos
 
 "Can Placed-Based Incentives Accelerate the Energy Transition? Evidence from the IRA's Energy Community Tax Credits", joint with Gaurav Doshi and Jancy Ling Liu
 
