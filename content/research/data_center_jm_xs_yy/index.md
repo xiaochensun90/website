@@ -79,7 +79,7 @@ slides: example
 
 **Description:**  
 
-Abstract coming soon
+The rapid growth of data centers, driven by artificial intelligence and high-performance computing, is creating substantial new electricity demand with uncertain implications for wholesale power markets. We study the causal effect of data center expansion on wholesale electricity prices in Virginia, the largest global hub for data centers, using census tract-level data from 2015 to 2024. Employing a propensity score differencein-differences approach, we estimate the dynamic impacts of new data center connections on Locational Marginal Prices, decomposed into system energy, congestion, and marginal loss components. Leveraging institutional constraints in PJM's interconnection process, which limit short-run supply responses, we isolate demand-driven price changes. Our results suggest that data center entry significantly increases LMPs, driven by both higher congestion and marginal-loss prices. Heterogeneity analysis reveals variations based on co-location with fossil fuel versus renewable generation, highlighting the trade-off between grid efficiency and emission impacts. These results provide novel evidence on how localized, high-intensity load growth reshapes electricity markets and exacerbates allocative inefficiencies in constrained grids. Our findings highlight the need for policies that expand transmission capacity and internalize congestion and loss externalities, ensuring that data center growth advances technological innovation without worsening grid inefficiency.
 
 
 

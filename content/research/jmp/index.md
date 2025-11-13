@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5736562
 
 url_pdf: ''
 url_code: ''
