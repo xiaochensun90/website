@@ -38,7 +38,5 @@ design:
 
 "When Storms Strike: Air Pollution and Health Effects of Electricity Sector Disruptions", joint with Michael Cobar and Felipe Gómez Trejos
 
-"Can Placed-Based Incentives Accelerate the Energy Transition? Evidence from the IRA's Energy Community Tax Credits", joint with Gaurav Doshi and Jancy Ling Liu
-
 “Impact of a Cap-and-Trade Program on Local Air Pollution: Evidence from the Acid Rain Program”, joint with Karen Clay and Edson Severnini 
 
