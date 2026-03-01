@@ -77,7 +77,7 @@ url_video: ''
 slides: example
 ---
 
-**Description:**  
+**Abstract**  
 
 Coming soon.
 

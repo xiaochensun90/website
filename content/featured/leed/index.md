@@ -77,7 +77,7 @@ url_video: ''
 slides: example
 ---
 
-**Abstract**: 
+**Abstract** 
 
 This paper examines the causal impact of LEED (Leadership in Energy & Environmental Design) certification on energy consumption among federally owned buildings that were retrofitted over the period 1990–2019. Using a difference-in-differences propensity score matching approach, the paper has two findings. First, despite energy savings being an explicit federal goal, LEED-certified retrofits of federal buildings did not have statistically significant energy savings on average. Second, LEED buildings with higher energy scores had greater energy efficiency post-certification, and the improvements were economically meaningful. The absence of energy savings on average appears to be driven by three factors — trade-offs across energy and other areas in acquiring points for certification, possible changes in energy use after the official performance period for LEED certification ended, and improvements in the energy efficiency of all federal buildings.
 
